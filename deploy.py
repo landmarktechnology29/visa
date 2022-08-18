@@ -3,3 +3,4 @@
 #= shell script
 print('Hello World')
 #= python script
+print('God is good')
