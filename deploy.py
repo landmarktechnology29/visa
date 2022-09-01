@@ -12,4 +12,5 @@ deploy to staging
 good job
 deployment successful
 echo tested and approve by client good job
+HEAD
 2e642cf (tested and approved)
