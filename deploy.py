@@ -13,4 +13,6 @@ good job
 deployment successful
 echo tested and approve by client good job
 HEAD
+HEAD
+2e642cf (tested and approved)
 2e642cf (tested and approved)
